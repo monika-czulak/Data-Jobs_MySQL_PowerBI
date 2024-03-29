@@ -11,5 +11,19 @@ Dataset is a part of DataCamp.com Case Study: Analyzing Job Market Data in Power
 - Job posting trend analysis across years
 - Data cleanup of job titles - focus on most relevant: Data Analyst, Data Scientist, Data Science Manager, Data Engineer, Machine Learning Engineer
 - Effect of years experience on salary - create new column Average Pay, and new metric Average of Average Pay to determined avg salary trends for each job title
+
+Findings:
+1. Job postings for data science roles are raising in demand over years.
+2. Out of five jobs to investigate, Data Engineers, Data Scientists, and Data Analysts are the most needed jobs.
+3. Salaries are trending upward as expected.
+   
+### Analyzing Market Trends
+- Cleanup and skills analysis - split skills from one column into separate rows
+- Likelihood of skills in job posting - create new measures for skill count, postings count and then % Skill in Posting
 - 
+Investigate the following:
+- Correlation between skills and job title
+- Top industries and companies
+- Potential recommendations to share with the client
+
 
