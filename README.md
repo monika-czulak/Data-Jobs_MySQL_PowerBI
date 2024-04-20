@@ -1,4 +1,6 @@
 # Job-Market-Analysis_PowerBI
+![image](https://github.com/monika-czulak/Job-Market-Analysis_PowerBI/assets/109820128/443ca4b3-4749-4499-9cd6-8be412a244ad)
+
 In this case study, I explored a real-world job posting dataset to uncover insights for a fictional recruitment company called DataSearch. I used Power Query to investigate and clean the data to find out what skills are most in-demand for data scientists, data analysts, and data engineers. Then I used DAX to build insightful visualizations of the findings. Finally, I created a business dashboard so that I could answer questions for the DataSearch team.
 
 ## Dataset
@@ -25,13 +27,10 @@ Findings:
 - Job titles with similar requirements
 
 ### Building job market analysis dashboard
-Q: Who is the audience? </br>
-A: DataSearch recruiters </br></br>
-Q: What do they need? </br>
-A: Identify optimal opportunities for qualified candidates </br></br>
-Q: How can a dashboard help? </br>
-A: Transform insights from this data into a usable form for the recruiters </br></br>
-
+Dashboard has been design with respect to the followind aspects:
+- Who is the audience?
+- What do they need?
+- How can a dashboard help?
 Dashboard is a combination of already prepared charts presented in four pages: Home, Jobs, Skills, and Company. Home page contains links to the main pages. Main pages contain link to the Home page. There is a filter pane on the left enabling to narrow down the results, and also search by date. The visual aspect has been provided by using personalized backgrounds designed in MS PowerPoint.
 
 ## Summary
